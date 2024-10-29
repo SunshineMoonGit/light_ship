@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "705500641739",
+    "project_id": "light-ship-ko",
+    "storage_bucket": "light-ship-ko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705500641739:android:f6b9175d82942fd7269e4e",
+        "android_client_info": {
+          "package_name": "com.sunshinemoongit.light_ship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705500641739-41lbs6lrg3gv6md5924mbd06bv3nlt3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunshinemoongit.light_ship",
+            "certificate_hash": "8499c35c57d5f5db2ec33fa48a36a180dbd0caf0"
+          }
+        },
+        {
+          "client_id": "705500641739-safcku9f3qemb94ceh7mrc0ua2jtp6v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKwpm1u5s6xLeld6g9Hu1qObbPSBSDJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705500641739-safcku9f3qemb94ceh7mrc0ua2jtp6v8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705500641739-qh16hcknlt4f01psmouta72n71q9e7mn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunshinemoongit.lightShip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

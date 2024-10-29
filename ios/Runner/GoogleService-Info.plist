@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>705500641739-qh16hcknlt4f01psmouta72n71q9e7mn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.705500641739-qh16hcknlt4f01psmouta72n71q9e7mn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>705500641739-41lbs6lrg3gv6md5924mbd06bv3nlt3p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmGWKtdq9RWf-UrA6kZv6XT3leu6a5Eyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>705500641739</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sunshinemoongit.lightShip</string>
+	<key>PROJECT_ID</key>
+	<string>light-ship-ko</string>
+	<key>STORAGE_BUCKET</key>
+	<string>light-ship-ko.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:705500641739:ios:2bd71b8cd8275b78269e4e</string>
+</dict>
+</plist>

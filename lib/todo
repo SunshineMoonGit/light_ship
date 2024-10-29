@@ -1,0 +1,22 @@
+
+안드로이드
+Error getting App Check token; using placeholder token instead. Error: com.google.firebase.FirebaseException: No AppCheckProvider installed.
+
+설정 추가
+
+about...
+
+throttle
+
+active svg 를 만들어서 너무 진하게 말고 슴슴하니
+
+profile bottom은 연동 되게
+
+
+TOMORROW
+//! 로그인 하면 바로 wallet에 추가 안됨.
+image 관리
+설정 추가
+
+network > 연동 >> ONLY init, 직접 호출, 주기
+modal animation 
