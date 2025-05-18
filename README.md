@@ -32,23 +32,26 @@ light_ship/
 ```bash
 # 1. 저장소 클론
 git clone https://github.com/SunshineMoonGit/light_ship.git
-
+```
+```bash
 # 2. 디렉토리 이동
 cd light_ship
-
+```
+```bash
 # 3. 패키지 설치
 flutter pub get
-
+```
+```bash
 # 4. 앱 실행
 flutter run
-
+```
 ---
 
-📌 주요 기능 (예정)
-명함 스캔 및 OCR 기능
+## 📌 주요 기능 (예정)
+- 명함 스캔 및 OCR 기능
 
-명함 정보 저장 및 편집
+- 명함 정보 저장 및 편집
 
-명함 목록 관리 및 검색/필터링
+- 명함 목록 관리 및 검색/필터링
 
-명함 공유 기능 (QR / 링크)
+- 명함 공유 기능 (QR / 링크)
